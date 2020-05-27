@@ -1,4 +1,4 @@
-package com.cb.dubbo.consume;
+package com.cb.dubbo.turing;
 
 import com.cb.clouds.dubboapi.service.DemoService;
 import org.junit.Test;

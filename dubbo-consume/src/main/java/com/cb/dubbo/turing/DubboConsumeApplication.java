@@ -1,4 +1,4 @@
-package com.cb.dubbo.consume;
+package com.cb.dubbo.turing;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
